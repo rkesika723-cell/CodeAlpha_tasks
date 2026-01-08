@@ -89,10 +89,7 @@ Tested the music player in browser to ensure all controls work correctly.
 - Simple UI
 - Working audio playback
 
----
 
-## 🖼 Task 4 – Output
-![Music Player Output](Task4_MusicPlayer/output.png)
 
 ---
 
