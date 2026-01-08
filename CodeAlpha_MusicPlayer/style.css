@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eef2ff;
+    text-align: center;
+}
+
+.music-player {
+    width: 300px;
+    margin: 80px auto;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.controls button {
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.volume {
+    margin-top: 15px;
+}
+
+.volume input {
+    width: 100%;
+}
